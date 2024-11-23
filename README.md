@@ -14,6 +14,7 @@
 - 🤝 I’m looking for help with **Completing my project**
 
 - 📫 How to reach me **inyumatamba2016@gmail.com**
+- Google Cloud Course Badges *https://www.cloudskillsboost.google/profile/badges
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1LPD6KObPuu8jGaIi7UYFULrJqU51nxIQ/edit?usp=sharing&ouid=118193195999870902475&rtpof=true&sd=true](https://docs.google.com/document/d/1LPD6KObPuu8jGaIi7UYFULrJqU51nxIQ/edit?usp=sharing&ouid=118193195999870902475&rtpof=true&sd=true)
 
