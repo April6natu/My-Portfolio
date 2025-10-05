@@ -16,7 +16,7 @@
 ---
 
 - 🔭 I’m currently learning through Coursera: completed the Front-End Pathway, now on Back-End Pathway.
-- 🌱 I’m learning **C/C#, Java, HTML, CSS & JS, PHP, Python, MySQL, React.js, Django Framework,etc.......**
+- 🌱 I’m learning **C/C#, Java, HTML, CSS & JS, PHP, etc.**
 - 👯 Looking to collaborate on [open source projects and Tech works](#)
 - 🤝 I’m looking for help with **completing my project**
 - 📫 Reach me at: **inyumatamba2016@gmail.com**
@@ -96,16 +96,16 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="left">📊 GitHub Stats (Live & Interactive)</h3>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=April6natu&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=April6natu&langs_count=8&layout=compact&hide_progress=false" alt="Top Langs" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=April6natu&show_icons=true&locale=en" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=April6natu&show_icons=true&theme=default" alt="Stats" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=April6natu" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=April6natu&theme=default" alt="Streak" />
 </p>
 
 ---
