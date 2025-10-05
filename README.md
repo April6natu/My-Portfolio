@@ -71,9 +71,10 @@
 
 <h3 align="left">🛠️ Languages and Tools</h3>
 
+<!-- Highlight C as your current top language -->
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-  <b><span style="font-size: 1.2em; color: #007396;">&nbsp;Currently most used language!</span></b>
+  <b><span style="font-size: 1.2em; color: #007396;">&nbsp;Currently my most used language!</span></b>
   <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="35" height="35"/>
@@ -100,8 +101,8 @@
 
 <h3 align="left">📊 GitHub Stats (Live & Interactive)</h3>
 
-<!-- The below cards update live based on your GitHub profile -->
 <p>
+  <b>💡 C is currently my most used language! (See right chart)</b><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=April6natu&langs_count=8&layout=compact&hide_progress=false" alt="Top Langs" />
 </p>
 <p>
@@ -110,12 +111,6 @@
 <p>
   <img src="https://streak-stats.demolab.com?user=April6natu&theme=default" alt="Streak" />
 </p>
-
-<!-- Optionally, you can include a custom summary card like your uploaded image -->
-<p>
-  <img src="https://user-images.githubusercontent.com/April6natu/YOUR_UPLOADED_IMAGE_PATH.jpg" alt="Israel N Tamba's GitHub Stats" />
-</p>
-<!-- Replace YOUR_UPLOADED_IMAGE_PATH.jpg with your actual upload path if you want to display the same card as the screenshot -->
 
 ---
 
