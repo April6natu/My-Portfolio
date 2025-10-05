@@ -1,39 +1,130 @@
 <h1 align="center">Hi 👋, I'm Israel N. Tamba</h1>
-<h3 align="center">A passionate IT Support Specialist from Liberia but studying in Rwanda</h3>
+<h3 align="center">A passionate IT Support Specialist from Liberia, studying in Rwanda</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=april6natu" alt="april6natu" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/tamba_israel" target="blank"><img src="https://img.shields.io/twitter/follow/tamba_israel?logo=twitter&style=for-the-badge" alt="tamba_israel" /></a> </p>
-
-- 🔭 I’m currently working on [Blood Donor Management System](N/A)
-
-- 🌱 I’m currently learning **C/C#, Java,HTML,CSS&JS,PhP.etc..**
-
-- 👯 I’m looking to collaborate on [open source projects and Tech works](N/A)
-
-- 🤝 I’m looking for help with **Completing my project**
-
-- 📫 How to reach me **inyumatamba2016@gmail.com**
-- Google Cloud Course Badges *https://www.cloudskillsboost.google/profile/badges
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1LPD6KObPuu8jGaIi7UYFULrJqU51nxIQ/edit?usp=sharing&ouid=118193195999870902475&rtpof=true&sd=true](https://docs.google.com/document/d/1LPD6KObPuu8jGaIi7UYFULrJqU51nxIQ/edit?usp=sharing&ouid=118193195999870902475&rtpof=true&sd=true)
-
-- ⚡ Fun fact **I think am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tamba_israel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tamba_israel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/israel-n-tamba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/israel-n-tamba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/israelnyumatamba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/israelnyumatamba" height="30" width="40" /></a>
-<a href="https://fb.com/israel natu tamba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="israel natu tamba" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/april_6q?igsh=zhk1exzwahy4cxaz&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/april_6q?igsh=zhk1exzwahy4cxaz&utm_source=qr" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=April6natu" alt="Trophies" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://twitter.com/tamba_israel" target="blank">
+    <img src="https://img.shields.io/twitter/follow/tamba_israel?logo=twitter&style=for-the-badge" alt="Twitter: @tamba_israel" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=april6natu&show_icons=true&locale=en&layout=compact" alt="april6natu" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=april6natu&show_icons=true&locale=en" alt="april6natu" /></p>
+- 🔭 I’m currently learning through Coursera: completed the Front-End Pathway, now on Back-End Pathway.
+- 🌱 I’m learning **C/C#, Java, HTML, CSS & JS, PHP, Python, MySQL, React.js, Django Framework,etc.......**
+- 👯 Looking to collaborate on [open source projects and Tech works](#)
+- 🤝 I’m looking for help with **completing my project**
+- 📫 Reach me at: **inyumatamba2016@gmail.com**
+- 🎓 Google Cloud Course Badges: [cloudskillsboost.google/profile/badges](https://www.cloudskillsboost.google/profile/badges)
+- 📄 [My Resume / Experience](https://docs.google.com/document/d/1LPD6KObPuu8jGaIi7UYFULrJqU51nxIQ/edit?usp=sharing&ouid=118193195999870902475&rtpof=true&sd=true)
+- ⚡ Fun fact: **I think I'm funny!**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=april6natu&" alt="april6natu" /></p>
+---
+
+<h3 align="left">🌟 Featured Repositories</h3>
+
+- <b>[Meta-Frontend-Portfolio](https://github.com/April6natu/Meta-Frontend-Portfolio)</b>  
+  <sub>Meta Front-End Developer Professional Certificate projects and practice exercises</sub><br>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-46.4%25-yellow?logo=javascript&logoColor=white"> 
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-37.1%25-orange?logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-16.5%25-blue?logo=css3&logoColor=white">
+
+- <b>[Meta-Front-End-Developer-Capstone-and-Practical](https://github.com/April6natu/Meta-Front-End-Developer-Capstone-and-Practical)</b><br>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-69.5%25-yellow?logo=javascript&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-19.4%25-blue?logo=css3&logoColor=white">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-11.1%25-orange?logo=html5&logoColor=white">
+
+- <b>[passenger-counter](https://github.com/April6natu/passenger-counter)</b><br>
+  <sub>An amazing counter Web app built with HTML, CSS & JS through Scrimba</sub><br>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-54.5%25-blue?logo=css3&logoColor=white">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-25.5%25-orange?logo=html5&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20%25-yellow?logo=javascript&logoColor=white">
+
+- <b>[April6natu.github.io](https://github.com/April6natu/April6natu.github.io)</b><br>
+  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-99%25-orange?logo=jupyter&logoColor=white">
+  <img alt="Other" src="https://img.shields.io/badge/Other-1%25-lightgrey">
+
+- <b>[repo-exercise](https://github.com/April6natu/repo-exercise)</b><br>
+  <sub>Using A Repository (Version Control) Course by Meta through Coursera</sub>
+
+- <b>[My-Portfolio](https://github.com/April6natu/My-Portfolio)</b><br>
+  <sub>Hello, this is my profile.</sub>
+
+- <b>[lab-agile-planning](https://github.com/April6natu/lab-agile-planning)</b><br>
+  <sub>This repository contains the lab for agile planning.</sub>
+
+- <b>[test-repo](https://github.com/April6natu/test-repo)</b><br>
+  <sub>VC branching, committing, and resolving merge conflicts</sub>
+
+- <b>[GitHubCloneProject](https://github.com/April6natu/GitHubCloneProject)</b><br>
+  <sub>Clone project practice</sub>
+
+- <b>[skills-introduction-to-github](https://github.com/April6natu/skills-introduction-to-github)</b><br>
+  <sub>My clone repository</sub>
+
+---
+
+<h3 align="left">🛠️ Languages and Tools</h3>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="35" height="35"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="35" height="35"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="35" height="35"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="35" height="35"/>
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=April6natu&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=April6natu&show_icons=true&locale=en" alt="Stats" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=April6natu" alt="Streak" />
+</p>
+
+---
+
+<h3 align="left">🤝 Connect with me</h3>
+<p align="left">
+  <a href="https://twitter.com/tamba_israel" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/israel-n-tamba" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/israelnyumatamba" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/israel natu tamba" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/april_6q" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
