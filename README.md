@@ -1,134 +1,180 @@
-<h1 align="center">Hi 👋, I'm Israel N. Tamba</h1>
-<h3 align="center">A passionate IT Support Specialist from Liberia, studying in Rwanda</h3>
+# Israel N. Tamba - Portfolio Website
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=April6natu" alt="Trophies" />
-  </a>
-</p>
+![Portfolio Banner](https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<p align="center">
-  <a href="https://twitter.com/tamba_israel" target="blank">
-    <img src="https://img.shields.io/twitter/follow/tamba_israel?logo=twitter&style=for-the-badge" alt="Twitter: @tamba_israel" />
-  </a>
-</p>
+## 🌟 Welcome to My Portfolio
 
----
+A modern, responsive portfolio website showcasing my skills, projects, and experience as an IT Support Specialist and aspiring developer. Built with clean HTML, CSS, and JavaScript following modern web design standards.
 
-- 🔭 I’m currently learning through Coursera: completed the Front-End Pathway, now on Back-End Pathway.
-- 🌱 I’m learning **C/C#, Java, HTML, CSS & JS, PHP, etc.**
-- 👯 Looking to collaborate on [open source projects and Tech works](#)
-- 🤝 I’m looking for help with **completing my project**
-- 📫 Reach me at: **inyumatamba2016@gmail.com**
-- 🎓 Google Cloud Course Badges: [cloudskillsboost.google/profile/badges](https://www.cloudskillsboost.google/profile/badges)
-- 📄 [My Resume / Experience](https://docs.google.com/document/d/1LPD6KObPuu8jGaIi7UYFULrJqU51nxIQ/edit?usp=sharing&ouid=118193195999870902475&rtpof=true&sd=true)
-- ⚡ Fun fact: **I think I'm funny!**
+## ✨ Features
 
----
+- **📱 Fully Responsive Design** - Optimized for desktop, tablet, and mobile devices
+- **🎨 Modern UI/UX** - Inspired by contemporary design standards with smooth animations
+- **🚀 Fast & Lightweight** - No frameworks, pure vanilla JavaScript for optimal performance
+- **♿ Accessible** - Semantic HTML and keyboard navigation support
+- **📧 Interactive Contact Form** - With real-time validation
+- **🎯 Smooth Scrolling** - Enhanced navigation experience
+- **💫 Animated Sections** - Scroll-triggered animations using Intersection Observer
 
-<h3 align="left">🌟 Featured Repositories</h3>
+## 📂 Project Structure
 
-- <b>[Meta-Frontend-Portfolio](https://github.com/April6natu/Meta-Frontend-Portfolio)</b>  
-  <sub>Meta Front-End Developer Professional Certificate projects and practice exercises</sub><br>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-46.4%25-yellow?logo=javascript&logoColor=white"> 
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-37.1%25-orange?logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-16.5%25-blue?logo=css3&logoColor=white">
+```
+My-Portfolio/
+├── index.html       # Main HTML file with all sections
+├── styles.css       # Complete styling with CSS variables and animations
+├── script.js        # Interactive features and form validation
+├── .gitignore       # Git ignore configuration
+└── README.md        # Project documentation
+```
 
-- <b>[Meta-Front-End-Developer-Capstone-and-Practical](https://github.com/April6natu/Meta-Front-End-Developer-Capstone-and-Practical)</b><br>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-69.5%25-yellow?logo=javascript&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-19.4%25-blue?logo=css3&logoColor=white">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-11.1%25-orange?logo=html5&logoColor=white">
+## 🎯 Sections
 
-- <b>[passenger-counter](https://github.com/April6natu/passenger-counter)</b><br>
-  <sub>An amazing counter Web app built with HTML, CSS & JS through Scrimba</sub><br>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-54.5%25-blue?logo=css3&logoColor=white">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-25.5%25-orange?logo=html5&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20%25-yellow?logo=javascript&logoColor=white">
+1. **Hero Section** - Eye-catching introduction with call-to-action buttons
+2. **About Me** - Personal introduction, education, and background
+3. **Projects** - Showcase of featured projects with links
+4. **Skills** - Visual display of technical skills and tools
+5. **Contact** - Interactive form for getting in touch
 
-- <b>[April6natu.github.io](https://github.com/April6natu/April6natu.github.io)</b><br>
-  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-99%25-orange?logo=jupyter&logoColor=white">
-  <img alt="Other" src="https://img.shields.io/badge/Other-1%25-lightgrey">
+## 🛠️ Technologies Used
 
-- <b>[repo-exercise](https://github.com/April6natu/repo-exercise)</b><br>
-  <sub>Using A Repository (Version Control) Course by Meta through Coursera</sub>
+- **HTML5** - Semantic markup for better structure
+- **CSS3** - Modern styling with:
+  - CSS Variables for theming
+  - Flexbox & Grid for layouts
+  - Animations and transitions
+  - Media queries for responsiveness
+- **JavaScript (ES6+)** - Interactive features:
+  - Form validation
+  - Smooth scrolling
+  - Mobile navigation
+  - Intersection Observer for animations
+- **Font Awesome** - Icon library for visual elements
 
-- <b>[My-Portfolio](https://github.com/April6natu/My-Portfolio)</b><br>
-  <sub>Hello, this is my profile.</sub>
+## 🚀 Quick Start
 
-- <b>[lab-agile-planning](https://github.com/April6natu/lab-agile-planning)</b><br>
-  <sub>This repository contains the lab for agile planning.</sub>
+### Option 1: View Locally
 
-- <b>[test-repo](https://github.com/April6natu/test-repo)</b><br>
-  <sub>VC branching, committing, and resolving merge conflicts</sub>
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/April6natu/My-Portfolio.git
+   ```
 
-- <b>[GitHubCloneProject](https://github.com/April6natu/GitHubCloneProject)</b><br>
-  <sub>Clone project practice</sub>
+2. Navigate to the project directory:
+   ```bash
+   cd My-Portfolio
+   ```
 
-- <b>[skills-introduction-to-github](https://github.com/April6natu/skills-introduction-to-github)</b><br>
-  <sub>My clone repository</sub>
+3. Open `index.html` in your browser:
+   ```bash
+   # On macOS
+   open index.html
+   
+   # On Linux
+   xdg-open index.html
+   
+   # On Windows
+   start index.html
+   ```
 
----
+### Option 2: Use a Local Server
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+For the best experience, use a local development server:
 
-<!-- Highlight C as your current top language -->
+```bash
+# Using Python 3
+python -m http.server 8000
+
+# Using Node.js (npx)
+npx serve
+
+# Using PHP
+php -S localhost:8000
+```
+
+Then visit `http://localhost:8000` in your browser.
+
+## 🎨 Customization
+
+### Colors
+
+The color scheme can be easily customized by modifying the CSS variables in `styles.css`:
+
+```css
+:root {
+    --primary-color: #6366f1;
+    --secondary-color: #8b5cf6;
+    --accent-color: #ec4899;
+    /* ... more colors */
+}
+```
+
+### Content
+
+Update your personal information directly in `index.html`:
+- Modify the About Me section text
+- Add/remove projects in the Projects section
+- Update skills in the Skills section
+- Change contact information
+
+## 📱 Responsive Design
+
+The website is fully responsive with breakpoints at:
+- **Desktop**: 1200px and above
+- **Tablet**: 768px - 1199px
+- **Mobile**: Below 768px
+
+## 🔧 Browser Support
+
+- Chrome (latest)
+- Firefox (latest)
+- Safari (latest)
+- Edge (latest)
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 👤 About Me
+
+Hi 👋, I'm **Israel N. Tamba**
+
+- 🌍 IT Support Specialist from Liberia, studying in Rwanda
+- 🎓 Completed Front-End Pathway, currently on Back-End Pathway (Coursera)
+- 💻 Learning: C/C#, Java, HTML, CSS, JavaScript, PHP, and more
+- 👯 Open to collaborations on open source projects
+- 📫 Email: inyumatamba2016@gmail.com
+- ⚡ Fun fact: I think I'm funny! 😄
+
+## 🤝 Connect With Me
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-  <b><span style="font-size: 1.2em; color: #007396;">&nbsp;Currently my most used language!</span></b>
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="35" height="35"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="35" height="35"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="35" height="35"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="35" height="35"/>
+  <a href="https://twitter.com/tamba_israel" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/israel-n-tamba" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/April6natu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.kaggle.com/israelnyumatamba" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://www.instagram.com/april_6q" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
+
+## 🙏 Acknowledgments
+
+- Design inspiration from [lovable.app](https://lovable.app)
+- Icons from [Font Awesome](https://fontawesome.com)
+- Tech icons from [devicons](https://devicons.github.io/devicon/)
 
 ---
 
-<h3 align="left">📊 GitHub Stats (Live & Interactive)</h3>
-
-<p>
-  <b>💡 C is currently my most used language! (See right chart)</b><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=April6natu&langs_count=8&layout=compact&hide_progress=false" alt="Top Langs" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=April6natu&show_icons=true&theme=default" alt="Stats" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=April6natu&theme=default" alt="Streak" />
-</p>
-
----
-
-<h3 align="left">🤝 Connect with me</h3>
-<p align="left">
-  <a href="https://twitter.com/tamba_israel" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/israel-n-tamba" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/israelnyumatamba" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/israel natu tamba" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/april_6q" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+<p align="center">Made with ❤️ by Israel N. Tamba</p>
+<p align="center">© 2025 All Rights Reserved</p>
