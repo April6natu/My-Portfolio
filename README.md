@@ -177,4 +177,4 @@ Hi 👋, I'm **Israel N. Tamba**
 ---
 
 <p align="center">Made with ❤️ by Israel N. Tamba</p>
-<p align="center">© 2026 All Rights Reserved</p>
+<p align="center">© 2025 All Rights Reserved</p>

@@ -332,3 +332,11 @@ if ('IntersectionObserver' in window) {
 // ===== Console message =====
 console.log('%cWelcome to my portfolio! 👋', 'font-size: 20px; font-weight: bold; color: #6366f1;');
 console.log('%cInterested in the code? Check out the repository on GitHub!', 'font-size: 14px; color: #6b7280;');
+
+// ===== Set current year in footer =====
+document.addEventListener('DOMContentLoaded', () => {
+    const currentYearElement = document.getElementById('currentYear');
+    if (currentYearElement) {
+        currentYearElement.textContent = new Date().getFullYear();
+    }
+});
