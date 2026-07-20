@@ -1,134 +1,227 @@
 <h1 align="center">Hi 👋, I'm Israel N. Tamba</h1>
-<h3 align="center">A passionate IT Support Specialist from Liberia, studying in Rwanda</h3>
+
+<h3 align="center">
+IT Support Specialist | Cybersecurity Enthusiast | Web Developer
+</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=April6natu" alt="Trophies" />
-  </a>
+  Based in Liberia 🇱🇷 and passionate about technology, technical support, cybersecurity, cloud computing, and software development.
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/tamba_israel" target="blank">
-    <img src="https://img.shields.io/twitter/follow/tamba_israel?logo=twitter&style=for-the-badge" alt="Twitter: @tamba_israel" />
+  <a href="mailto:inyumatamba2016@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/israel-n-tamba">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/tamba_israel">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
 
 ---
 
-- 🔭 I’m currently learning through Coursera: completed the Front-End Pathway, now on Back-End Pathway.
-- 🌱 I’m learning **C/C#, Java, HTML, CSS & JS, PHP, etc.**
-- 👯 Looking to collaborate on [open source projects and Tech works](#)
-- 🤝 I’m looking for help with **completing my project**
-- 📫 Reach me at: **inyumatamba2016@gmail.com**
-- 🎓 Google Cloud Course Badges: [cloudskillsboost.google/profile/badges](https://www.cloudskillsboost.google/profile/badges)
-- 📄 [My Resume / Experience](https://docs.google.com/document/d/1LPD6KObPuu8jGaIi7UYFULrJqU51nxIQ/edit?usp=sharing&ouid=118193195999870902475&rtpof=true&sd=true)
-- ⚡ Fun fact: **I think I'm funny!**
+## 👨‍💻 About Me
+
+* 🔭 I am currently completing the **Back-End Developer Pathway on Coursera** after finishing the Front-End pathway.
+* 💼 I have experience and interest in **IT support, technical troubleshooting, cybersecurity, networking, and software development**.
+* 🌱 I am currently improving my skills in **C, C#, Java, JavaScript, PHP, React, databases, and cloud technologies**.
+* 🤝 I am open to collaborating on **open-source, web development, cybersecurity, and IT projects**.
+* 🛠️ I enjoy troubleshooting technical problems and developing practical technology solutions.
+* 💬 Ask me about **IT support, front-end development, Git, GitHub, cloud computing, and technical troubleshooting**.
+* 📫 Reach me at **[inyumatamba2016@gmail.com](mailto:inyumatamba2016@gmail.com)**.
+* ⚡ Fun fact: **I enjoy solving technical problems—and I think I’m funny!**
 
 ---
 
-<h3 align="left">🌟 Featured Repositories</h3>
+## 🎯 Current Focus
 
-- <b>[Meta-Frontend-Portfolio](https://github.com/April6natu/Meta-Frontend-Portfolio)</b>  
-  <sub>Meta Front-End Developer Professional Certificate projects and practice exercises</sub><br>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-46.4%25-yellow?logo=javascript&logoColor=white"> 
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-37.1%25-orange?logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-16.5%25-blue?logo=css3&logoColor=white">
-
-- <b>[Meta-Front-End-Developer-Capstone-and-Practical](https://github.com/April6natu/Meta-Front-End-Developer-Capstone-and-Practical)</b><br>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-69.5%25-yellow?logo=javascript&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-19.4%25-blue?logo=css3&logoColor=white">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-11.1%25-orange?logo=html5&logoColor=white">
-
-- <b>[passenger-counter](https://github.com/April6natu/passenger-counter)</b><br>
-  <sub>An amazing counter Web app built with HTML, CSS & JS through Scrimba</sub><br>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-54.5%25-blue?logo=css3&logoColor=white">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-25.5%25-orange?logo=html5&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20%25-yellow?logo=javascript&logoColor=white">
-
-- <b>[April6natu.github.io](https://github.com/April6natu/April6natu.github.io)</b><br>
-  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-99%25-orange?logo=jupyter&logoColor=white">
-  <img alt="Other" src="https://img.shields.io/badge/Other-1%25-lightgrey">
-
-- <b>[repo-exercise](https://github.com/April6natu/repo-exercise)</b><br>
-  <sub>Using A Repository (Version Control) Course by Meta through Coursera</sub>
-
-- <b>[My-Portfolio](https://github.com/April6natu/My-Portfolio)</b><br>
-  <sub>Hello, this is my profile.</sub>
-
-- <b>[lab-agile-planning](https://github.com/April6natu/lab-agile-planning)</b><br>
-  <sub>This repository contains the lab for agile planning.</sub>
-
-- <b>[test-repo](https://github.com/April6natu/test-repo)</b><br>
-  <sub>VC branching, committing, and resolving merge conflicts</sub>
-
-- <b>[GitHubCloneProject](https://github.com/April6natu/GitHubCloneProject)</b><br>
-  <sub>Clone project practice</sub>
-
-- <b>[skills-introduction-to-github](https://github.com/April6natu/skills-introduction-to-github)</b><br>
-  <sub>My clone repository</sub>
+```text
+IT Support          ███████████████████░   95%
+Cybersecurity       ███████████████░░░░░   75%
+Front-End Dev       ████████████████░░░░   80%
+Back-End Dev        ████████████░░░░░░░░   60%
+Cloud Computing     ███████████░░░░░░░░░   55%
+```
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+## 🛠️ Technical Skills
 
-<!-- Highlight C as your current top language -->
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-  <b><span style="font-size: 1.2em; color: #007396;">&nbsp;Currently my most used language!</span></b>
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="35" height="35"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="35" height="35"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="35" height="35"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="35" height="35"/>
-</p>
-
----
-
-<h3 align="left">📊 GitHub Stats (Live & Interactive)</h3>
+### IT Support and Systems
 
 <p>
-  <b>💡 C is currently my most used language! (See right chart)</b><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=April6natu&langs_count=8&layout=compact&hide_progress=false" alt="Top Langs" />
+  <img src="https://img.shields.io/badge/Technical%20Support-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Technical Support"/>
+  <img src="https://img.shields.io/badge/Hardware%20Troubleshooting-555555?style=for-the-badge&logo=ifixit&logoColor=white" alt="Hardware Troubleshooting"/>
+  <img src="https://img.shields.io/badge/Networking-00629B?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-2E3440?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
+
+### Programming Languages
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=April6natu&show_icons=true&theme=default" alt="Stats" />
+  <img src="https://skillicons.dev/icons?i=c,cs,java,js,python,php,html,css" alt="Programming Languages"/>
 </p>
+
+### Frameworks and Development Tools
+
 <p>
-  <img src="https://streak-stats.demolab.com?user=April6natu&theme=default" alt="Streak" />
+  <img src="https://skillicons.dev/icons?i=react,django,bootstrap,flutter,mysql,git,github,vscode" alt="Frameworks and Tools"/>
+</p>
+
+### Cloud, Databases and Other Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,mysql,sqlite,arduino,unity,photoshop" alt="Cloud and Other Technologies"/>
 </p>
 
 ---
 
-<h3 align="left">🤝 Connect with me</h3>
-<p align="left">
-  <a href="https://twitter.com/tamba_israel" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+## 🚀 Featured Projects
+
+### 🌐 Meta Front-End Portfolio
+
+**Repository:** [Meta-Frontend-Portfolio](https://github.com/April6natu/Meta-Frontend-Portfolio)
+
+A collection of projects, exercises, and practical assignments completed during the Meta Front-End Developer Professional Certificate.
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-46.4%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML-37.1%25-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-16.5%25-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+</p>
+
+---
+
+### 🍽️ Meta Front-End Capstone
+
+**Repository:** [Meta-Front-End-Developer-Capstone-and-Practical](https://github.com/April6natu/Meta-Front-End-Developer-Capstone-and-Practical)
+
+A practical front-end capstone project demonstrating responsive design, JavaScript functionality, user-interface development, and modern web-development practices.
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-69.5%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/CSS-19.4%25-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/HTML-11.1%25-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+</p>
+
+---
+
+### 🚌 Passenger Counter
+
+**Repository:** [passenger-counter](https://github.com/April6natu/passenger-counter)
+
+A simple and interactive passenger-counting web application developed with HTML, CSS, and JavaScript through Scrimba.
+
+<p>
+  <img src="https://img.shields.io/badge/CSS-54.5%25-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/HTML-25.5%25-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+---
+
+### 📁 Additional Projects
+
+| Project                                                                                      | Description                                                                   |
+| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [My Portfolio](https://github.com/April6natu/My-Portfolio)                                   | My personal developer portfolio and profile project.                          |
+| [April6natu.github.io](https://github.com/April6natu/April6natu.github.io)                   | My GitHub Pages website and development experiments.                          |
+| [repo-exercise](https://github.com/April6natu/repo-exercise)                                 | Git and GitHub version-control exercises completed through Meta and Coursera. |
+| [lab-agile-planning](https://github.com/April6natu/lab-agile-planning)                       | Agile planning and project-management laboratory exercises.                   |
+| [GitHubCloneProject](https://github.com/April6natu/GitHubCloneProject)                       | Practice project covering GitHub repository cloning and local development.    |
+| [test-repo](https://github.com/April6natu/test-repo)                                         | Practice with Git branching, commits, merging, and conflict resolution.       |
+| [skills-introduction-to-github](https://github.com/April6natu/skills-introduction-to-github) | GitHub Skills introduction and repository-management practice.                |
+
+---
+
+## 🎓 Certifications and Learning
+
+* **Meta Front-End Developer Pathway** — Coursera
+* **Back-End Developer Pathway** — Currently in progress
+* **Google Cloud Skills Boost Courses and Badges**
+* Continuous learning in **IT support, networking, cybersecurity, software development, and cloud computing**
+
+<p>
+  <a href="https://www.cloudskillsboost.google/profile/badges">
+    <img src="https://img.shields.io/badge/Google%20Cloud-View%20My%20Badges-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Badges"/>
   </a>
-  <a href="https://www.linkedin.com/in/israel-n-tamba" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</p>
+
+---
+
+## 📄 Resume
+
+<p>
+  <a href="https://docs.google.com/document/d/1LPD6KObPuu8jGaIi7UYFULrJqU51nxIQ/edit?usp=sharing&ouid=118193195999870902475&rtpof=true&sd=true">
+    <img src="https://img.shields.io/badge/Resume-View%20My%20Experience-0A66C2?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/>
   </a>
-  <a href="https://www.kaggle.com/israelnyumatamba" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=April6natu&show_icons=true&count_private=true&hide_border=true" alt="Israel's GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=April6natu&layout=compact&langs_count=8&hide_border=true" alt="Israel's Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=April6natu&hide_border=true" alt="Israel's GitHub Streak"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=April6natu&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=April6natu&hide_border=true" alt="GitHub Contribution Graph"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:inyumatamba2016@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://fb.com/israel natu tamba" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/israel-n-tamba">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/april_6q" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://twitter.com/tamba_israel">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
+  <a href="https://www.kaggle.com/israelnyumatamba">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://www.instagram.com/april_6q">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=April6natu&label=Profile%20Views&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <b>Thank you for visiting my GitHub profile!</b>
+</p>
+
+<p align="center">
+  ⭐ Feel free to explore my repositories and connect with me for collaboration.
 </p>
